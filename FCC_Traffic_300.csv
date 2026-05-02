@@ -1,0 +1,301 @@
+Route,Segment,AM_or_PM,Distance_km,Mean_peak_travel_time_sec,Mean_peak_travel_speed_kmh,Total_peak_delay_sec,Peak_delay_source,Mean_peak_running_speed_kmh,Percent_time_delay,Level_of_service,Traffic,Condition
+Asokoro Road,Area 8 to Berger,AM,11.81,1966.21,21.16,802.19,Market activity,34.99,28.98,C,Medium,Fair
+Moshood Abiola Way,Area 1 to Area 10,AM,2.3,1849,5,1705,Traffic signal and Congestion,64.2,92.2,F,High,Poor
+Garki Area 8,Wuse Market to NNPC Tower,PM,10.36,539.7,65.87,18.69,Congestion,79.12,3.35,A,Low,Good
+Aminu Kano Crescent,Kaura to Games Village,PM,4.25,323.45,54.11,37.61,Congestion,70.53,10.42,B,Low,Good
+Maitama Drive,Wuse Zone 5 to Area 1,AM,3.34,465.18,26.4,95.14,Security stop,31.51,16.98,B,Medium,Fair
+Herbert Macaulay Way,Herbert Macaulay to Ship House,PM,11.7,718.21,64.76,7.98,Accident,69.5,1.1,A,Low,Good
+Aminu Kano Crescent,ECOWAS to Aso Drive,AM,1.42,153.91,34.69,17.82,Congestion,49.1,10.38,B,Medium,Fair
+Central District,Transcorp Hilton to Minister’s Hill,AM,10.8,1480.86,27.9,640.52,Congestion,39.97,30.19,C,Medium,Good
+Area 3 Connector,Games Village to CBD,PM,9.18,2153.51,15.98,1257.59,Traffic signal and Congestion,32.23,36.87,D,High,Poor
+Durumi Road,Area 11 to Area 3,AM,13.65,2570.58,18.79,883.63,Traffic signal and Congestion,32.18,25.58,C,Medium,Fair
+Kaura District,Wuse Zone 5 to Area 1,AM,3.67,697.59,20.63,308.16,Traffic signal and Congestion,38.6,30.64,C,Medium,Fair
+Moshood Abiola Way,Area 1 to Area 10,AM,0.98,106.21,35.23,39.93,Traffic signal and Congestion,43.77,27.32,C,Medium,Fair
+Gwarimpa Road,Area 3 to Area 1,AM,14.76,3503.25,16.52,4960.13,Road works,22.82,58.61,E,High,Poor
+Garki Area 11,Efab Estate to Apo,PM,3.03,269.5,39.37,150.54,Congestion,46.24,35.84,D,Medium,Poor
+Kado Express,Area 1 to Area 10,PM,14.5,11662.5,5.01,16481.7,Accident,21.33,58.56,E,High,Poor
+Nyanya–Mararaba,Zuba to Dei-Dei,PM,10.2,821.2,45.21,260.39,Traffic signal and Congestion,63.13,24.07,C,Medium,Good
+Airport Road,Durumi to Area 1,AM,3.09,326.35,35.85,130.53,Minor congestion,47.7,28.57,C,Medium,Fair
+Garki Area 11,Zuba to Dei-Dei,PM,12.02,1675.84,25.98,106.2,Market activity,31.64,5.96,A,Medium,Poor
+Area 3 Connector,Aco Estate to City Gate,AM,0.72,53.06,49.28,13.89,Traffic signal and Congestion,57.03,20.75,C,Medium,Good
+Wuye District,Area 7 to CBD,PM,13.99,911.41,55.76,44.1,Road works,60.81,4.62,A,Low,Fair
+Asokoro Road,Area 8 to Berger,AM,6.59,1441.89,16.27,128.35,Accident,20.03,8.17,A,Medium,Poor
+Garki II,Area 11 to Area 3,PM,6.86,566.57,48.91,33.91,Traffic signal and Congestion,59.97,5.65,A,Low,Good
+Aminu Kano Crescent,Lugbe to Aco Estate,AM,12.71,1508.81,34.69,1148.7,Road works,44.19,43.22,D,Medium,Poor
+Kado Express,Wuye to Berger,AM,1.67,248.85,24.11,25.29,Congestion,41.13,9.23,A,Medium,Good
+Area 3 Connector,Transcorp Hilton to Minister’s Hill,PM,6.82,465.87,53.67,6.41,Minor congestion,61.34,1.36,A,Low,Fair
+Kubwa Expressway,ECOWAS to Aso Drive,AM,11.57,1511.02,31.42,812.44,Market activity,34.65,34.97,C,Medium,Fair
+Herbert Macaulay Way,Lugbe to Aco Estate,PM,9.43,1885.79,19.54,1971.36,Security stop,34.71,51.11,D,High,Fair
+Jabi Road,Wuse Market to NNPC Tower,PM,9.95,850.66,45.21,42.94,Congestion,53.99,4.81,A,Low,Fair
+CBD Loop,Area 1 to CBD,AM,7.69,813.6,38.91,285.89,Congestion,50.44,26,C,Medium,Poor
+Ahmadu Bello Way,Games Village to CBD,AM,11.76,2896.71,16.09,1257.35,Security stop,26.67,30.27,C,High,Poor
+Kado Road,Banex to Emab Plaza,PM,6.14,6300.31,4,6586.78,Traffic signal and Congestion,13.73,51.11,D,High,Poor
+Wuye District,Jabi Park to Utako Market,PM,11.98,892.74,50.16,118.87,Traffic signal and Congestion,54.92,11.75,B,Low,Fair
+Apo Road,Apo Roundabout to Gudu,AM,1.72,98.11,61.03,14.52,Security stop,69.59,12.89,B,Low,Good
+Asokoro Road,Herbert Macaulay to Ship House,PM,5.58,659.68,30.94,190.61,Congestion,40.02,22.42,C,Medium,Good
+Garki Area 8,Area 11 to Area 3,PM,12.43,1799.94,24.03,613.07,Minor congestion,39.06,25.41,C,Medium,Fair
+Utako District,Jabi Park to Utako Market,AM,13.91,877,56.72,38.74,Traffic signal and Congestion,70.17,4.23,A,Low,Fair
+Durumi Road,Presidential Villa to ECOWAS,AM,14.28,1542.59,34.75,376.92,Minor congestion,38.92,19.64,B,Medium,Fair
+Zuba Link,Apo Roundabout to Gudu,AM,6.46,607.31,39.57,52.94,Accident,43.81,8.02,A,Low,Fair
+Zuba Link,Lugbe to Aco Estate,AM,5.96,2718.19,9.03,3791.21,Traffic signal and Congestion,19.06,58.24,E,High,Fair
+Herbert Macaulay Way,Jabi Park to Utako Market,AM,13.04,2444.77,21.87,3433.78,Traffic signal and Congestion,31.63,58.41,E,High,Fair
+Garki Area 11,Banex to Emab Plaza,AM,13.23,1192.97,41.73,148.77,Market activity,56.98,11.09,B,Low,Poor
+CBD Loop,Berger to Garki Hospital,PM,9.05,1011.98,36.4,394.16,Congestion,48.52,28.03,C,Medium,Fair
+Garki II,Mobolaji Bank Anthony to Apo Legislative,AM,11.03,1063.76,40.67,519.18,Road works,56.3,32.8,C,Medium,Fair
+Garki Area 8,Area 3 to Area 1,AM,9.5,680.88,52.34,59.72,Traffic signal and Congestion,65.81,8.06,A,Low,Fair
+Airport Road,Herbert Macaulay to Ship House,PM,7.37,638.52,41.79,16.95,Congestion,46.6,2.59,A,Low,Poor
+Kado Express,Area 1 to CBD,AM,5.29,339.2,55.1,44.7,Congestion,59.37,11.64,B,Low,Good
+Garki Area 8,Wuse Zone 5 to Area 1,AM,13.9,2921.13,16.78,1381.85,Road works,32.45,32.11,C,High,Fair
+Zone 4 Road,Gudu to Lokogoma Junction,AM,8.22,645.36,45.5,31.7,Congestion,61.86,4.68,A,Low,Poor
+Airport Road,6th Avenue to 1st Avenue,PM,7.73,728.57,37.26,150.14,Congestion,49.95,17.09,B,Medium,Good
+Kaura District,Aco Estate to City Gate,PM,3.94,314.62,45.4,8.18,Congestion,49.6,2.53,A,Low,Fair
+Aminu Kano Crescent,Wuye to Berger,PM,2.12,346.46,21.68,405.09,Congestion,33.03,53.9,D,High,Fair
+Garki Area 11,Lugbe to Aco Estate,AM,5.19,922.96,20.4,341.2,Congestion,30.62,26.99,C,Medium,Poor
+Herbert Macaulay Way,Aco Estate to City Gate,AM,2.45,768.95,12.46,990.64,Traffic signal and Congestion,22.53,56.3,E,High,Fair
+CBD Loop,Area 7 to CBD,PM,12.54,732.6,59.36,81.44,Traffic signal and Congestion,74.99,10,B,Low,Good
+Obasanjo Way,Wuye to Berger,AM,2.87,650.7,17.87,527.18,Traffic signal and Congestion,27.46,44.76,D,High,Fair
+Garki Area 11,Berger to Central Area,AM,6.86,833.08,29.52,290.38,Road works,37.51,25.85,C,Medium,Fair
+Apo Road,Wuse Zone 5 to Area 1,PM,7.68,621.61,49.18,80.01,Congestion,62.89,11.4,B,Medium,Good
+Apo Road,Durumi to Area 1,AM,8.28,947.69,32.94,260.54,Congestion,36.12,21.56,C,Medium,Fair
+Airport Road,Games Village to CBD,PM,9.19,3592.13,9.28,3949.31,Traffic signal and Congestion,14.37,52.37,D,High,Poor
+Herbert Macaulay Way,ECOWAS to Aso Drive,AM,13.82,819.24,58.53,9.5,Event diversion,74.14,1.15,A,Low,Good
+Herbert Macaulay Way,Wuye to Berger,PM,12.66,2298.44,20.42,853.16,Traffic signal and Congestion,35.46,27.07,C,High,Fair
+Obasanjo Way,Kaura to Games Village,AM,8.29,945.92,31.39,282.68,Congestion,37.04,23.01,C,Medium,Good
+Gwarimpa Road,Area 3 to Area 1,AM,11.82,866.34,51.17,72.42,Traffic signal and Congestion,62.2,7.71,A,Low,Good
+Asokoro Road,Wuse Market to Berger Junction,AM,6.26,2821.94,8.19,3915.54,Road works,15.6,58.12,E,High,Poor
+Bwari Road,Area 1 to Area 10,AM,7.48,4060.04,7.3,2655.24,Security stop,18.2,39.54,D,High,Poor
+Durumi Road,Area 11 to Area 3,PM,13.07,2360.35,21.31,558.46,Congestion,37.62,19.13,B,Medium,Poor
+Aminu Kano Crescent,Area 1 to CBD,PM,14.84,2185.44,25.21,1576.11,Road works,37.71,41.9,D,High,Good
+Garki Area 7,Sars Road to Efab Estate,AM,13.21,1280.2,41.42,728.74,Road works,49.6,36.27,D,Medium,Fair
+Obasanjo Way,Area 1 to CBD,PM,3.68,2305.62,6,1237.52,Road works,16.69,34.93,C,High,Fair
+Moshood Abiola Way,Herbert Macaulay to Ship House,AM,2.52,650.51,13.3,968.34,Traffic signal and Congestion,24.95,59.82,E,High,Poor
+Nyanya–Mararaba,Wuye to Berger,PM,12.53,991.21,48.67,89.29,Event diversion,54.3,8.26,A,Low,Good
+Kado Express,Jabi Park to Utako Market,AM,8.02,514.72,56.04,30.06,Road works,64.38,5.52,A,Low,Fair
+Asokoro Road,Kaura to Games Village,PM,6.25,442.7,49.93,55.88,Traffic signal and Congestion,67.26,11.21,B,Low,Fair
+Obasanjo Way,Ship House to Eagle Square,AM,5.49,533.15,35.78,121.58,Traffic signal and Congestion,38.86,18.57,B,Medium,Fair
+Kubwa Expressway,Apo Roundabout to Gudu,PM,6.97,581.73,46.66,250.58,Congestion,53.41,30.11,C,Medium,Good
+Garki II,Ship House to Eagle Square,AM,10.21,863.73,43.09,100.44,Traffic signal and Congestion,48.98,10.42,B,Medium,Fair
+Zuba Link,Utako Market to Area 3,PM,11.3,1366.16,30.46,489.59,Congestion,46.73,26.38,C,Medium,Fair
+Kado Express,Utako Market to Area 3,AM,5.07,1984.55,9.87,2788.92,Accident,13.19,58.43,E,High,Fair
+Utako District,Gudu to Lokogoma Junction,PM,12.08,1255.27,37.26,665.95,Traffic signal and Congestion,51.78,34.66,C,Medium,Fair
+Asokoro Road,Efab Estate to Apo,PM,3.96,520.5,26.25,31.14,Traffic signal and Congestion,35.67,5.64,A,Medium,Fair
+Kaura District,Eagle Square to Garki Market,AM,14.27,955.37,56.11,87.91,Traffic signal and Congestion,73.98,8.43,A,Low,Good
+Garki Area 8,Area 8 to Berger,PM,9.31,848.77,43.67,44.58,Accident,61.21,4.99,A,Low,Fair
+Ahmadu Bello Way,Efab Estate to Apo,PM,3.02,835.89,12.94,493.98,Congestion,24.83,37.14,D,High,Poor
+Moshood Abiola Way,Presidential Villa to ECOWAS,PM,4.35,805.77,21.01,818.75,Traffic signal and Congestion,30.14,50.4,D,High,Fair
+Aminu Kano Crescent,Lugbe to Aco Estate,AM,8.22,531.45,62.73,41.14,Congestion,74.3,7.18,A,Low,Good
+Aminu Kano Crescent,Mobolaji Bank Anthony to Apo Legislative,PM,11.14,4427.56,9.21,2702.13,Congestion,13.8,37.9,D,High,Poor
+Zone 4 Road,Gwarimpa to Zuba,PM,14.44,8205.35,7.17,2473.55,Traffic signal and Congestion,21.52,23.16,C,High,Fair
+Moshood Abiola Way,Kado Estate to Jabi,AM,5.23,432.14,42.51,32.36,Traffic signal and Congestion,58.11,6.97,A,Low,Poor
+Garki II,Berger to Garki Hospital,PM,11.94,2684.57,17.48,2458.12,Accident,21.6,47.8,D,High,Poor
+Central District,Area 8 to Berger,AM,9.89,1661.26,23.87,441.37,Market activity,33.9,20.99,C,Medium,Good
+Ahmadu Bello Way,Banex to Emab Plaza,PM,8.14,458.62,62.38,59.72,Road works,65.85,11.52,B,Low,Good
+Garki II,Area 1 to Apo Junction,PM,14.49,2302.69,24.9,368.89,Congestion,38.62,13.81,B,Medium,Fair
+Jabi Road,Area 1 to Apo Junction,AM,2.81,205.15,47.02,24.52,Market activity,63.7,10.68,B,Low,Good
+Garki Area 8,Wuse Zone 5 to Area 1,AM,2.2,264.87,28.79,98.02,Traffic signal and Congestion,43.75,27.01,C,Medium,Fair
+Utako District,Apo Roundabout to Gudu,AM,1.55,194.32,32.22,169.81,Traffic signal and Congestion,36.79,46.63,D,Medium,Fair
+Wuye District,Kado Estate to Jabi,AM,7.49,715.46,39.83,383.05,Traffic signal and Congestion,55.2,34.87,C,Medium,Good
+Asokoro Road,Area 1 to Area 10,PM,3.41,1994.53,6,2922.16,Congestion,18.25,59.43,E,High,Fair
+Obasanjo Way,ECOWAS to Aso Drive,PM,10.85,728.73,56.79,89.34,Congestion,69.44,10.92,B,Low,Fair
+Apo Road,Emab Plaza to H-Medix,AM,1.38,87.31,57.89,2.39,Congestion,70.77,2.66,A,Low,Fair
+Bwari Road,Aco Estate to City Gate,PM,3.81,1019.91,12.97,346.61,Accident,22.91,25.36,C,High,Poor
+Kado Express,Area 3 to Area 1,AM,5.52,3237.31,6.37,4023.44,Event diversion,22.47,55.41,E,High,Fair
+Gwarimpa Road,Transcorp Hilton to Minister’s Hill,AM,9.09,532.75,59.97,57.2,Traffic signal and Congestion,65.67,9.7,A,Low,Good
+Central District,Area 1 to Area 10,AM,12.89,731.08,64.86,65.02,Market activity,73.73,8.17,A,Low,Good
+Moshood Abiola Way,Kaura to Games Village,PM,5.22,276.1,65.66,7.03,Security stop,73.72,2.48,A,Low,Good
+Herbert Macaulay Way,Lugbe to Aco Estate,AM,9.45,975.26,37.77,69.43,Congestion,52.86,6.65,A,Low,Poor
+Garki II,Aco Estate to City Gate,AM,2.12,138.95,53.52,9.42,Congestion,61.26,6.35,A,Low,Good
+Central District,ECOWAS to Aso Drive,AM,14.81,804.34,69,62.21,Traffic signal and Congestion,82,7.18,A,Low,Good
+CBD Loop,Area 1 to Apo Junction,PM,11.13,798.61,57.33,30.58,Traffic signal and Congestion,75.01,3.69,A,Low,Fair
+CBD Loop,Gudu to Lokogoma Junction,PM,13.1,695.62,67.33,68.75,Traffic signal and Congestion,80.1,8.99,A,Low,Good
+Zone 4 Road,Area 1 to Area 10,PM,1.2,104.98,45.17,55.97,Congestion,53.08,34.77,C,Medium,Good
+Gwarimpa Road,Area 1 to CBD,PM,12.07,4401.22,10.02,3417.11,Traffic signal and Congestion,23.45,43.71,D,High,Fair
+Wuye District,Durumi to Area 1,AM,5.91,377.29,58.8,21.49,Congestion,69.59,5.39,A,Low,Good
+Garki Area 7,Area 8 to Berger,AM,6.01,794.99,30.28,353.74,Traffic signal and Congestion,33.55,30.79,C,Medium,Fair
+Durumi Road,Area 1 to Apo Junction,PM,13.52,4243.1,11.13,3953.01,Traffic signal and Congestion,18.4,48.23,D,High,Good
+Garki II,Area 11 to Area 3,AM,5.01,675.57,26.33,286.86,Road works,37.21,29.81,C,Medium,Fair
+Kaura District,Games Village to CBD,AM,1.76,219.19,31.15,73.07,Congestion,46.06,25,C,Medium,Poor
+Kaura District,Zuba to Dei-Dei,PM,8.57,550.37,62.33,63.29,Traffic signal and Congestion,71.69,10.31,B,Low,Good
+Nyanya–Mararaba,Kaura to Games Village,PM,7.36,607.75,46.98,23.42,Traffic signal and Congestion,50.86,3.71,A,Low,Fair
+Ahmadu Bello Way,Gwarimpa to Zuba,PM,6.36,583.72,38.08,261.73,Traffic signal and Congestion,45.19,30.96,C,Medium,Good
+Aminu Kano Crescent,Wuye to Berger,PM,3.28,243.1,46.8,29.19,Accident,57.9,10.72,B,Low,Fair
+Bwari Road,Wuse Market to NNPC Tower,AM,5.2,481.45,42.62,147.26,Market activity,54.05,23.42,C,Medium,Fair
+Utako District,Area 8 to Berger,PM,3.41,249.24,53.34,29.74,Traffic signal and Congestion,59.86,10.66,B,Low,Good
+Aminu Kano Crescent,Lugbe to Aco Estate,PM,11.64,2454.65,19.17,944.22,Traffic signal and Congestion,24.56,27.78,C,Medium,Fair
+Airport Road,Durumi to Area 1,AM,5.45,870.22,22.68,494.56,Security stop,28.11,36.24,D,Medium,Fair
+Garki II,Utako Market to Berger Junction,PM,6.17,761.91,30.8,340.41,Security stop,36.98,30.88,C,Medium,Fair
+Garki II,Jabi Park to Utako Market,AM,2.73,485.08,21.19,343.36,Event diversion,26.28,41.45,D,High,Good
+Central District,Wuse Market to NNPC Tower,PM,12.47,812.85,53.35,94.7,Market activity,65.26,10.43,B,Low,Good
+Garki Area 8,Gudu to Lokogoma Junction,AM,12.85,918.71,53.52,26.43,Road works,63.79,2.8,A,Low,Fair
+Kaura District,Wuse Zone 5 to Area 1,PM,3.97,306.97,44.81,23.46,Congestion,60.02,7.1,A,Low,Fair
+Garki Area 8,Area 8 to Berger,PM,8.14,473.62,63.33,29.42,Road works,77.33,5.85,A,Low,Good
+CBD Loop,Area 1 to Area 10,AM,6.57,766.52,31.31,390.06,Traffic signal and Congestion,37.29,33.73,C,Medium,Poor
+Airport Road,Apo Roundabout to Gudu,AM,8.45,4560.46,6.77,5739.63,Traffic signal and Congestion,15.41,55.72,E,High,Poor
+Gwarimpa Road,Jabi Park to Utako Market,PM,2.43,199.85,44.03,112.25,Security stop,58.75,35.97,D,Medium,Good
+Durumi Road,Area 1 to CBD,AM,7.03,1905.83,15.24,2086.54,Congestion,29.43,52.26,D,High,Fair
+Garki Area 11,Area 3 to Area 1,AM,1.02,111.87,37.37,53.82,Congestion,46.55,32.48,C,Medium,Good
+Kado Road,Kado Estate to Jabi,AM,6.65,625.37,43.84,399.56,Traffic signal and Congestion,50.75,38.98,D,Medium,Good
+Wuye District,6th Avenue to 1st Avenue,PM,4.75,468.94,39.43,56.49,Traffic signal and Congestion,56.35,10.75,B,Medium,Good
+Wuye District,Emab Plaza to H-Medix,AM,9.39,923.78,39.49,39.62,Accident,55.41,4.11,A,Low,Fair
+Obasanjo Way,Gudu to Lokogoma Junction,PM,3.71,428.31,31.62,198.84,Road works,42.71,31.71,C,Medium,Poor
+Moshood Abiola Way,Area 8 to Berger,PM,1.83,328.25,22.11,150.63,Traffic signal and Congestion,26.7,31.45,C,Medium,Fair
+CBD Loop,Transcorp Hilton to Minister’s Hill,PM,13.22,917.85,58.4,38.26,Congestion,74.6,4,A,Low,Good
+Wuye District,6th Avenue to 1st Avenue,PM,12.32,1820.27,27.28,931.94,Road works,30.45,33.86,C,Medium,Fair
+Garki Area 7,Efab Estate to Apo,AM,2.66,517.54,20.25,751.5,Traffic signal and Congestion,29.12,59.22,E,High,Poor
+Aminu Kano Crescent,Transcorp Hilton to Minister’s Hill,AM,9.48,4804.94,7.66,1846.58,Congestion,19.08,27.76,C,High,Fair
+CBD Loop,Area 3 to Area 1,PM,12.17,3155.11,14.12,4165.9,Congestion,28.95,56.9,E,High,Poor
+Maitama Drive,Games Village to CBD,AM,11.16,1684.33,26.16,361.62,Congestion,38.72,17.67,B,Medium,Good
+Garki II,Mobolaji Bank Anthony to Apo Legislative,PM,14.87,1478.17,41.5,208.29,Congestion,53.29,12.35,B,Medium,Fair
+Gwarimpa Road,Apo Roundabout to Gudu,PM,11.85,6321.54,7.06,5472.78,Congestion,20.65,46.4,D,High,Poor
+CBD Loop,Transcorp Hilton to Minister’s Hill,PM,13.69,1240.55,40.91,171.68,Traffic signal and Congestion,44.11,12.16,B,Low,Fair
+Apo Road,Berger to Garki Hospital,AM,4.5,906.36,20,587.85,Traffic signal and Congestion,35.8,39.34,D,High,Poor
+Bwari Road,Jabi Park to Utako Market,AM,6.46,4116.44,6,6248.22,Traffic signal and Congestion,15.28,60.28,E,High,Fair
+Wuye District,Wuye to Berger,PM,4.22,271.49,59.97,14.23,Traffic signal and Congestion,65.24,4.98,A,Low,Good
+Apo Road,Gwarimpa to Zuba,PM,8.4,584.27,54.85,53.71,Traffic signal and Congestion,70.55,8.42,A,Low,Good
+Kubwa Expressway,Area 1 to Area 10,PM,3.63,987.14,14.66,439.79,Security stop,32.33,30.82,C,High,Fair
+Nyanya–Mararaba,Kado Estate to Jabi,AM,2.89,1225.32,9.56,1754.35,Minor congestion,19.33,58.88,E,High,Poor
+Kado Express,Area 1 to Area 10,AM,7.23,1094.57,26.5,283.75,Traffic signal and Congestion,43.97,20.59,C,Medium,Poor
+Apo Road,Zuba to Dei-Dei,AM,12,1257.79,36.29,172.16,Traffic signal and Congestion,51.19,12.04,B,Medium,Fair
+Ahmadu Bello Way,Wuse Market to NNPC Tower,PM,2.95,660.98,17.9,146.9,Accident,35.42,18.18,B,Medium,Fair
+Obasanjo Way,ECOWAS to Aso Drive,PM,5.14,850.75,25,500.99,Congestion,29.95,37.06,D,Medium,Good
+Ahmadu Bello Way,Durumi to Area 1,AM,12.43,1175.62,43.15,130.39,Event diversion,60.97,9.98,A,Medium,Fair
+Jabi Road,3rd Avenue to 6th Avenue,AM,7.67,914.24,29.3,166.33,Congestion,37.52,15.39,B,Medium,Good
+Kado Express,Presidential Villa to ECOWAS,PM,9.5,1682.83,19.82,1984.11,Traffic signal and Congestion,33.11,54.11,D,High,Good
+Asokoro Road,Aco Estate to City Gate,PM,3.79,233.22,59.15,11.87,Market activity,71.95,4.84,A,Low,Good
+Jabi Road,Apo Roundabout to Gudu,PM,11.93,632.25,66.04,42.4,Congestion,82.01,6.28,A,Low,Good
+Ahmadu Bello Way,Sars Road to Efab Estate,PM,2.11,141.58,60.18,6.21,Security stop,74.49,4.2,A,Low,Good
+Garki Area 8,Gwarimpa to Zuba,PM,8.61,862.62,35,75.55,Congestion,38.69,8.05,A,Medium,Fair
+Garki Area 8,Herbert Macaulay to Ship House,PM,1.58,231.02,27.71,53.53,Congestion,45.55,18.81,B,Medium,Poor
+Maitama Drive,Area 8 to Berger,PM,4.64,262.43,63.68,8.67,Congestion,77.74,3.2,A,Low,Good
+Obasanjo Way,Eagle Square to Garki Market,PM,1.44,100.64,53.72,2.08,Traffic signal and Congestion,59.19,2.02,A,Low,Fair
+Garki Area 7,Berger to Central Area,PM,10.69,2013.55,20.65,1153.35,Congestion,34.8,36.42,D,Medium,Fair
+Durumi Road,Berger to Central Area,AM,4.19,987.46,17.48,229.33,Congestion,23.42,18.85,B,Medium,Poor
+Utako District,Efab Estate to Apo,AM,7.99,683.52,42.83,82.29,Traffic signal and Congestion,53.52,10.75,B,Low,Poor
+CBD Loop,3rd Avenue to 6th Avenue,PM,4.63,431.86,41.88,32.25,Traffic signal and Congestion,58.82,6.95,A,Medium,Fair
+Aminu Kano Crescent,Sars Road to Efab Estate,AM,13.66,1637.59,33.46,83.29,Traffic signal and Congestion,37.23,4.84,A,Medium,Good
+Durumi Road,Efab Estate to Apo,PM,2.16,346.23,24.71,30.83,Market activity,33.03,8.18,A,Medium,Poor
+Area 3 Connector,6th Avenue to 1st Avenue,AM,9.11,912.68,39.34,106.15,Congestion,43.34,10.42,B,Medium,Fair
+Aminu Kano Crescent,Area 1 to Area 10,AM,6.62,798.46,31.69,190.63,Accident,44.47,19.27,B,Medium,Poor
+Kado Road,Gudu to Lokogoma Junction,AM,1.63,444.49,13.73,468.07,Accident,18.21,51.29,D,High,Poor
+Kado Express,Games Village to CBD,AM,8.12,671.88,49.57,34.24,Traffic signal and Congestion,58.25,4.85,A,Low,Poor
+Garki II,Area 7 to CBD,PM,9.14,2375.39,14.71,1037.66,Traffic signal and Congestion,32.29,30.4,C,High,Fair
+Kaura District,Wuse Market to NNPC Tower,PM,6.07,485.07,49.61,33.36,Traffic signal and Congestion,66.11,6.43,A,Low,Fair
+Apo Road,Wuye to Berger,AM,6.94,1105.99,21.6,645.8,Congestion,39.3,36.87,D,Medium,Fair
+Utako District,Area 1 to CBD,AM,4.08,370.1,41.73,156.39,Congestion,57.19,29.7,C,Medium,Good
+Herbert Macaulay Way,Area 11 to Area 3,PM,15,6349.86,8.59,4594.57,Road works,18.51,41.98,D,High,Fair
+Aminu Kano Crescent,Area 11 to Area 3,PM,10.81,711.83,56.95,4.06,Traffic signal and Congestion,68.19,0.57,A,Low,Good
+Kaura District,Efab Estate to Apo,AM,1,370.38,10.19,256.74,Congestion,21.03,40.94,D,High,Poor
+Durumi Road,Wuse Zone 5 to Area 1,PM,13.82,1312.04,40.59,492.37,Minor congestion,50.74,27.29,C,Medium,Fair
+Aminu Kano Crescent,Apo Roundabout to Gudu,PM,4.83,448.18,38.57,49.35,Traffic signal and Congestion,55.51,9.92,A,Low,Poor
+Ahmadu Bello Way,6th Avenue to 1st Avenue,AM,4.84,3323.38,4.99,5307.99,Traffic signal and Congestion,20.42,61.5,E,High,Poor
+Asokoro Road,Wuse Market to NNPC Tower,PM,12.6,796.98,62.79,101.13,Congestion,67.12,11.26,B,Low,Good
+Central District,Emab Plaza to H-Medix,AM,6.4,780.79,28.46,449.2,Traffic signal and Congestion,35.95,36.52,D,Medium,Good
+Durumi Road,Area 1 to CBD,PM,10.75,792.43,49.14,95.51,Event diversion,58.22,10.76,B,Low,Fair
+Area 3 Connector,Transcorp Hilton to Minister’s Hill,AM,3.78,1072.12,12.37,1560.21,Congestion,22.11,59.27,E,High,Poor
+Aminu Kano Crescent,Efab Estate to Apo,PM,4.01,721.12,19.59,943.19,Traffic signal and Congestion,30.04,56.67,E,High,Fair
+Bwari Road,Area 1 to CBD,PM,4.44,348.47,49.02,46.82,Traffic signal and Congestion,59.02,11.84,B,Low,Good
+Jabi Road,Area 8 to Berger,PM,12.49,1346.2,38.03,380.05,Congestion,55.07,22.02,C,Medium,Fair
+Nyanya–Mararaba,Utako Market to Area 3,AM,6.12,1725.72,13.83,1003.21,Road works,31.09,36.76,D,Medium,Poor
+CBD Loop,3rd Avenue to 6th Avenue,AM,11.84,849.65,52,58.33,Traffic signal and Congestion,60.53,6.42,A,Low,Good
+Zone 4 Road,Gwarimpa to Zuba,PM,6.54,2730.31,9.71,1584.84,Traffic signal and Congestion,21.83,36.73,D,High,Fair
+Kaura District,Zuba to Dei-Dei,PM,11.21,1465.19,31.07,304.87,Traffic signal and Congestion,34.94,17.22,B,Medium,Good
+Apo Road,6th Avenue to 1st Avenue,AM,6,483.32,46.07,38.49,Congestion,49.22,7.38,A,Low,Good
+Airport Road,Ship House to Eagle Square,PM,5.02,977.85,17.62,1272.38,Traffic signal and Congestion,22.42,56.54,E,High,Good
+Garki Area 7,Herbert Macaulay to Ship House,PM,8.01,1891.84,17.45,2311.22,Security stop,32.2,54.99,D,Medium,Fair
+Aminu Kano Crescent,Utako Market to Berger Junction,AM,13.54,3324.18,15.9,3513.23,Congestion,22.49,51.38,D,High,Poor
+Garki Area 8,Presidential Villa to ECOWAS,PM,1.6,150.25,42.41,13.03,Congestion,57.58,7.98,A,Low,Fair
+Garki II,Area 7 to CBD,PM,4.27,2996.29,5.6,1141.18,Congestion,8.72,27.58,C,High,Poor
+Lokogoma Road,Durumi to Area 1,PM,8.18,981.65,33.34,297.26,Traffic signal and Congestion,42.83,23.24,C,Medium,Poor
+CBD Loop,Aco Estate to City Gate,AM,3.53,596.5,21.27,923.87,Minor congestion,38.54,60.77,E,High,Fair
+Zuba Link,Ship House to Eagle Square,AM,3.68,1415.16,8.92,1950.39,Congestion,17.25,57.95,E,High,Poor
+Lokogoma Road,Area 1 to Apo Junction,PM,11.48,1264.73,35.4,176.41,Congestion,49.97,12.24,B,Medium,Fair
+Obasanjo Way,Wuye to Berger,AM,5.68,419.53,54.57,45.87,Traffic signal and Congestion,64,9.86,A,Low,Fair
+Ahmadu Bello Way,Banex to Emab Plaza,AM,13.57,2667.76,19.16,3004.1,Traffic signal and Congestion,22.65,52.96,D,High,Poor
+Asokoro Road,Mobolaji Bank Anthony to Apo Legislative,AM,9.52,1251.38,30.96,666.42,Security stop,34.37,34.75,C,Medium,Fair
+Obasanjo Way,Lugbe to Aco Estate,AM,3.04,175.75,66.38,13.62,Traffic signal and Congestion,73.62,7.19,A,Low,Good
+Garki II,Gwarimpa to Zuba,PM,6.31,1020.19,22.29,698.22,Congestion,25.78,40.63,D,High,Fair
+Zuba Link,Eagle Square to Garki Market,AM,13.25,970.32,54.31,51.32,Congestion,65.04,5.02,A,Low,Poor
+Garki Area 7,Utako Market to Area 3,PM,6.18,796.12,30.59,127.62,Traffic signal and Congestion,33.74,13.82,B,Medium,Poor
+Garki Area 11,Utako Market to Berger Junction,PM,14.52,1285.91,41.08,294.36,Traffic signal and Congestion,56.33,18.63,B,Medium,Good
+CBD Loop,Games Village to CBD,PM,11.44,1438.49,31.26,204.3,Market activity,43.02,12.44,B,Medium,Poor
+Apo Road,Utako Market to Berger Junction,AM,9.22,1030.12,33.89,260.73,Congestion,49.3,20.2,C,Medium,Poor
+Asokoro Road,Aco Estate to City Gate,PM,10.57,3264.11,11.88,2403.34,Road works,27.73,42.41,D,High,Fair
+Jabi Road,Wuse Market to Berger Junction,AM,7.5,731.77,35.97,357.58,Traffic signal and Congestion,51.62,32.83,C,Medium,Poor
+Kaura District,Area 8 to Berger,PM,8.42,517.01,57.8,62.04,Traffic signal and Congestion,66.75,10.71,B,Low,Good
+Apo Road,Herbert Macaulay to Ship House,AM,4.99,1047.79,18.43,1093.13,Traffic signal and Congestion,35.02,51.06,D,High,Fair
+Maitama Drive,Zuba to Dei-Dei,AM,8.46,1214.85,27.49,331.03,Traffic signal and Congestion,42.25,21.41,C,Medium,Fair
+Maitama Drive,Sars Road to Efab Estate,PM,1.55,110.94,48.95,53.2,Minor congestion,60.97,32.41,C,Medium,Good
+Kaura District,Gudu to Lokogoma Junction,PM,13.76,1450.13,39.14,515.55,Traffic signal and Congestion,50.87,26.23,C,Medium,Poor
+Nyanya–Mararaba,ECOWAS to Aso Drive,AM,9.28,990.59,33.01,373.9,Traffic signal and Congestion,49.89,27.4,C,Medium,Fair
+Obasanjo Way,Efab Estate to Apo,PM,9.54,889.93,41.88,94.33,Traffic signal and Congestion,49.57,9.58,A,Low,Good
+Zone 4 Road,Area 1 to Area 10,PM,14.23,736.25,68.92,64.89,Traffic signal and Congestion,82.12,8.1,A,Low,Good
+Nyanya–Mararaba,Eagle Square to Garki Market,PM,8.36,477.52,62.58,47.63,Traffic signal and Congestion,76.72,9.07,A,Low,Good
+Garki Area 8,Jabi Park to Utako Market,PM,6.79,805.53,32.55,322.8,Traffic signal and Congestion,46.26,28.61,C,Medium,Poor
+Nyanya–Mararaba,Utako Market to Area 3,AM,13.72,3900.07,12.93,1106.15,Congestion,24.89,22.1,C,Medium,Poor
+CBD Loop,6th Avenue to 1st Avenue,PM,6.06,378.94,57.61,56.14,Traffic signal and Congestion,72.17,12.9,B,Low,Fair
+Area 3 Connector,Aco Estate to City Gate,PM,5.34,1248.86,15.89,1793.16,Congestion,31.39,58.95,E,High,Poor
+Bwari Road,Wuye to Berger,PM,6.58,1933.13,12.64,2592.38,Road works,19.86,57.28,E,High,Poor
+Gwarimpa Road,Wuse Market to Berger Junction,PM,2.12,402.65,21.14,354.36,Event diversion,24.26,46.81,D,High,Fair
+Zuba Link,Utako Market to Area 3,AM,11.27,2951.66,15.22,3311.41,Traffic signal and Congestion,22.29,52.87,D,High,Poor
+Nyanya–Mararaba,Jabi Park to Utako Market,PM,1.63,102.47,58.35,7.1,Traffic signal and Congestion,61.55,6.48,A,Low,Good
+Garki II,Wuye to Berger,AM,10.97,1161.43,35.92,562.35,Traffic signal and Congestion,47.04,32.62,C,Medium,Good
+CBD Loop,Kado Estate to Jabi,PM,4,292.35,49.21,2.53,Traffic signal and Congestion,55.72,0.86,A,Low,Good
+Zone 4 Road,Area 3 to Area 1,PM,8.57,988.89,30.71,321.45,Congestion,46.77,24.53,C,Medium,Fair
+Maitama Drive,Banex to Emab Plaza,PM,7.69,693.17,44.05,293.48,Road works,61.32,29.75,C,Medium,Fair
+CBD Loop,Apo Roundabout to Gudu,PM,10.26,4908.07,8.25,5921.38,Accident,18.23,54.68,D,High,Fair
+Obasanjo Way,Gwarimpa to Zuba,AM,3.16,1089.26,11.6,1603.72,Accident,15.6,59.55,E,High,Poor
+Jabi Road,Games Village to CBD,PM,8.41,1007.29,34.22,74.1,Road works,38.27,6.85,A,Medium,Good
+Aminu Kano Crescent,Eagle Square to Garki Market,AM,10.98,2356.37,17.56,124.7,Congestion,32.15,5.03,A,Medium,Fair
+Wuye District,Games Village to CBD,PM,8.96,1658.27,21.09,1835.07,Traffic signal and Congestion,26.64,52.53,D,High,Fair
+Zone 4 Road,Aco Estate to City Gate,PM,13.67,1330.04,39.83,180.97,Traffic signal and Congestion,53.58,11.98,B,Medium,Good
+Aminu Kano Crescent,Area 1 to Area 10,AM,13.66,1239.26,44.22,122.6,Congestion,51.3,9,A,Low,Good
+Garki II,Wuse Market to NNPC Tower,PM,9.73,812.48,46.09,32.25,Road works,61.31,3.82,A,Low,Good
+Durumi Road,Aco Estate to City Gate,PM,11.72,927.17,47.01,123.56,Accident,59.46,11.76,B,Low,Good
+Maitama Drive,Aco Estate to City Gate,AM,3.42,443.44,30.53,220.39,Security stop,48.04,33.2,C,Medium,Fair
+Jabi Road,Area 7 to CBD,PM,10.28,1280.57,33.01,692.07,Traffic signal and Congestion,42.1,35.08,D,Medium,Fair
+Zone 4 Road,Kaura to Games Village,AM,0.75,113.37,22.65,64.18,Traffic signal and Congestion,31.69,36.15,D,Medium,Poor
+Airport Road,Area 8 to Berger,PM,6.91,1283.73,22.01,305.59,Minor congestion,28.18,19.23,B,Medium,Fair
+Jabi Road,Eagle Square to Garki Market,PM,7.19,633.13,45.9,69.98,Traffic signal and Congestion,58.37,9.95,A,Medium,Good
+Zuba Link,Herbert Macaulay to Ship House,PM,4.49,585.3,28.75,244.23,Traffic signal and Congestion,34.3,29.44,C,Medium,Poor
+Maitama Drive,Durumi to Area 1,PM,10.64,1763.52,22.38,881.4,Event diversion,29.54,33.32,C,High,Fair
+Kado Express,Presidential Villa to ECOWAS,PM,5.65,475.64,48.16,62.99,Accident,54.33,11.69,B,Low,Fair
+Garki II,Mobolaji Bank Anthony to Apo Legislative,PM,4.65,3183.04,6.02,2879.1,Traffic signal and Congestion,9.96,47.49,D,High,Fair
+Asokoro Road,ECOWAS to Aso Drive,PM,12.86,944.77,48.8,66.48,Traffic signal and Congestion,53.31,6.57,A,Low,Fair
+Kubwa Expressway,Efab Estate to Apo,PM,11.51,1446.93,28.92,257.38,Traffic signal and Congestion,35.77,15.1,B,Medium,Good
+Area 3 Connector,Banex to Emab Plaza,AM,3.55,249.54,49.5,18.14,Security stop,60.95,6.78,A,Low,Good
+Kubwa Expressway,Berger to Central Area,PM,4.9,430.34,47.01,25.54,Traffic signal and Congestion,54.24,5.6,A,Low,Good
+Kado Road,Banex to Emab Plaza,AM,8.43,1451.17,22.22,683.27,Congestion,25.46,32.01,C,Medium,Poor
+Utako District,Area 1 to Apo Junction,PM,8.61,1427.58,23.66,398.12,Accident,40.21,21.81,C,Medium,Good
+Nyanya–Mararaba,Wuye to Berger,AM,11.18,2162.68,20.44,1434.38,Traffic signal and Congestion,36.26,39.88,D,High,Good
+Ahmadu Bello Way,Area 11 to Area 3,AM,6.4,774.62,32.93,146.43,Traffic signal and Congestion,49.34,15.9,B,Medium,Fair
+Zuba Link,Area 7 to CBD,PM,5.4,419.77,49.45,47.33,Traffic signal and Congestion,61.45,10.13,B,Low,Good
+Garki Area 8,Banex to Emab Plaza,AM,4.35,409.55,43.55,37.47,Congestion,58.34,8.38,A,Low,Fair
+Kubwa Expressway,Area 11 to Area 3,PM,2.74,256.85,39.54,129.75,Traffic signal and Congestion,43,33.56,C,Medium,Good
+Durumi Road,Apo Roundabout to Gudu,AM,9.42,1185.84,30.32,345.08,Traffic signal and Congestion,35.73,22.54,C,Medium,Poor
+Moshood Abiola Way,Area 1 to Apo Junction,AM,1.22,82.66,54.51,9.94,Traffic signal and Congestion,68.77,10.73,B,Low,Fair
+Nyanya–Mararaba,Durumi to Area 1,AM,10.32,3323.04,12.47,3263.74,Traffic signal and Congestion,18.99,49.55,D,High,Poor
+Nyanya–Mararaba,Jabi Park to Utako Market,PM,10.18,717.47,57.19,101.93,Traffic signal and Congestion,71.28,12.44,B,Low,Good
+Lokogoma Road,Games Village to CBD,PM,0.65,63.62,37.44,5.94,Traffic signal and Congestion,44.36,8.54,A,Medium,Good
+Aminu Kano Crescent,Durumi to Area 1,PM,3.19,2022.55,6.07,1002.4,Congestion,15.77,33.14,C,High,Poor
+Kado Express,Area 3 to Area 1,AM,10.1,1761.87,22.73,968.26,Traffic signal and Congestion,35.68,35.47,D,High,Good
+Moshood Abiola Way,Utako Market to Area 3,PM,13.49,848.15,56.51,43.52,Traffic signal and Congestion,71.97,4.88,A,Low,Fair
+CBD Loop,Durumi to Area 1,AM,10.39,621.7,61.85,49.12,Congestion,65.08,7.32,A,Low,Good
+Garki Area 7,Area 11 to Area 3,PM,8.09,844.59,34.51,404.55,Traffic signal and Congestion,38.64,32.39,C,Medium,Good
+Zuba Link,Berger to Central Area,AM,1.47,274.98,18.68,39.84,Market activity,26.13,12.65,B,Medium,Fair
+Kado Road,Area 11 to Area 3,PM,4.27,634.47,26.37,191.52,Traffic signal and Congestion,38.58,23.19,C,Medium,Poor
+Apo Road,Jabi Park to Utako Market,PM,1.61,1063,5.35,1472.22,Congestion,22.04,58.07,E,High,Poor
+Central District,Zuba to Dei-Dei,PM,12.44,1799.51,28.29,766.82,Congestion,31.78,29.88,C,Medium,Good
+Garki Area 8,Aco Estate to City Gate,AM,10.02,1052.39,33.36,407.31,Traffic signal and Congestion,46.29,27.9,C,Medium,Poor
+Garki Area 11,Efab Estate to Apo,PM,6.35,1493.01,14.87,1136.73,Congestion,28.01,43.23,D,High,Poor
+Maitama Drive,Wuse Zone 5 to Area 1,AM,3.14,2232.77,5.7,2286.7,Road works,16.24,50.6,D,High,Poor
+Obasanjo Way,Transcorp Hilton to Minister’s Hill,AM,13.35,3076.73,17.19,3048.06,Road works,26.62,49.77,D,High,Fair
+Lokogoma Road,Utako Market to Area 3,PM,8.33,1083.02,30.98,342.46,Congestion,38.61,24.02,C,Medium,Good
+Maitama Drive,Wuse Market to NNPC Tower,PM,10.84,1024.9,42.42,67.73,Congestion,51.15,6.2,A,Low,Fair
+Utako District,Wuse Market to NNPC Tower,PM,3.27,526.25,25.22,147.83,Road works,41.97,21.93,C,Medium,Poor
+Moshood Abiola Way,Herbert Macaulay to Ship House,PM,11,677.06,59.49,7.8,Market activity,74.94,1.14,A,Low,Fair
+Asokoro Road,Apo Roundabout to Gudu,AM,13.09,3063.89,15.82,201.48,Security stop,18.99,6.17,A,Medium,Poor
+Garki II,ECOWAS to Aso Drive,AM,8.71,528.86,57.89,40.71,Traffic signal and Congestion,62.29,7.15,A,Low,Good
+Lokogoma Road,Apo Roundabout to Gudu,AM,5.1,469.5,42.05,20.23,Congestion,50.03,4.13,A,Low,Fair
+Garki Area 8,Wuye to Berger,PM,7.52,1265.48,24.22,444.28,Traffic signal and Congestion,32.42,25.98,C,Medium,Fair
+Maitama Drive,Gudu to Lokogoma Junction,AM,1,170.5,23.8,92.52,Traffic signal and Congestion,30.25,35.18,D,Medium,Fair
+Gwarimpa Road,Wuse Zone 5 to Area 1,PM,10.26,1536.17,26.07,305.47,Traffic signal and Congestion,43.96,16.59,B,Medium,Good
